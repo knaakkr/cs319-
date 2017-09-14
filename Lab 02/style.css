@@ -1,0 +1,15 @@
+selector {
+        property: value; 
+}
+
+
+body{
+ font-family:Arial,sans-serif
+}
+id {
+    color:blue
+}
+input {
+    background-color: green
+    
+}
